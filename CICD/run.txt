@@ -1,0 +1,4 @@
+set path = "C:\jdk1.7.0_79\bin";
+
+javac src/QA.java
+java QA
